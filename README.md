@@ -5,33 +5,18 @@ In this seminar the students will learn about recent methods in the field of dee
 
 The seminar will cover a range of topics including image classification, object detection and segmentation, object tracking, and generative modeling. Additionally, we will cover fundamental DL model architectures such as CNNs, Transformers, and Diffusion models.
 
-<!-- 
 Course language will be english.
 
 General Structure: 
 
-- 4 papers per session/topic covering  
-  - F: foundational (2)
-  - A: application (2)
-  
+- 3-4 papers per session/topic covering  
 - Intro (10 mins)
 - Presentation F+A (2x20 mins) 
 - Discussion and Q&A (30 mins)
 
-
-
-# Table of Contents
-- [Session 1](#Session1)
-- [Session 2](#Session2)
-- [Session 3](#Session3)
-- [Session 4](#Session4)
-- [Session 5](#Session5)
-- [Session 6](#Session6)
-- [Session 7](#Session7)
-- [Session 8](#Session8)
-- [Session 9](#Session9)
-- [Session 10](#Session10) -->
-
+Date: Friday 4 DS
+Place: [N63/A001]([url](https://navigator.tu-dresden.de/etplan/n63/00/raum/191100.0020))
+OPAL: https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/46688141312?19
 
 
 # Session1 - Basic CNNs
