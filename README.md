@@ -19,6 +19,9 @@ Place: [N63/A001]([url](https://navigator.tu-dresden.de/etplan/n63/00/raum/19110
 OPAL: https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/46688141312?19
 
 
+<img width="720" alt="Screenshot 2024-11-15 at 11 45 32" src="https://github.com/user-attachments/assets/a37482f1-eb6f-4cc3-8ed5-b03730533cd2">
+
+
 # Session1 - Basic CNNs
 
 
